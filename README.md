@@ -10,4 +10,6 @@
  - <a href="https://www.linkedin.com/in/luis-fernando-luz-b8ba7824b/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+    
+    [![Luis Fernando stats](https://github-readme-stats.vercel.app/api?username=LuisFernandoLuz)](https://github.com/anuraghazra/github-readme-stats)
  
